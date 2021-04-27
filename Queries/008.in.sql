@@ -1,4 +1,4 @@
--- SQL AULA 09 IN
+-- IN
 /*
  * Nós usamos o operador IN junto com WHERE, para verificar se um valor corresponde
  * com qualquer valor passado na lista de valores
